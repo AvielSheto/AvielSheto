@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aviel Sheto</h1>
 <h3 align="center">A Full-Stack developer from Israel</h3>
 <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="men programing" width="400" align="right" >
