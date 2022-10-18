@@ -3,7 +3,6 @@
 <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="men programing" width="400" align="right" >
 
 - 🌱 I’m currently learning **python **
- 
 - 📫 How to reach me **avielsheto@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
