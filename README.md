@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aviel Sheto</h1>
 <h3 align="center">A Full-Stack developer from Israel</h3>
 <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="men programing" width="400" align="right" >
+
 - 🌱 I’m currently learning **python **
+- 
 - 📫 How to reach me **avielsheto@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
